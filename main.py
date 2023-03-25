@@ -6,7 +6,7 @@ pygame.init()  # 2. pygame 초기화
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
-size = [600, 600]
+size = [800, 800]
 screen = pygame.display.set_mode(size)
 
 done = False
